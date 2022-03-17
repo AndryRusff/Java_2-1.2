@@ -12,6 +12,6 @@
 	- открыть терминал
 	- ввести команду 
 		```
-		git clone https://github.com/AndryRusff/Java-2-2
+		git clone https://github.com/AndryRusff/Java_2-1.2
 		```
 2. Открыть склонированный проект в Intellij IDEA
